@@ -1,0 +1,31 @@
+{
+ "accounts": [
+  {
+   "name": "netflix",
+   "price": 1000,
+   "tax": 1053,
+   "emails": []
+  },
+  {
+   "name": "[nitro",
+   "price": 30000,
+   "tax": 31579,
+   "emails": [
+    "1m] https://discord.com/billing/promotions/2nyNjQdrCsHjSdZdmW9PTnuB",
+    "1m] https://discord.com/billing/promotions/2YcfJJRYdsGDVK8bPgeazDb2",
+    "1m] https://discord.com/billing/promotions/2pDEfTVV94VsaBnABav5tzXv",
+    "1m]",
+    "https://discord.com/billing/promotions/2zxGdwXaaxR4vysZhHAFYx23"
+   ]
+  }
+ ],
+ "status": "open",
+ "admins": [
+  "",
+  ""
+ ],
+ "ch": "985954078649614366",
+ "notif": "448597666658779146",
+ "blacklist": [],
+ "buy": "all"
+}
